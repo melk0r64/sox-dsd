@@ -52,9 +52,7 @@ Filter Phase:
     -I = intermediate (25%)
     -L = linear (50%)
     -p <0 .. 100> = specified percentage (values between 50 and 100 are unlikely to be useful)
-
-
-https://redirect.viglink.com/?format=go&jsonp=vglnk_165355992170610&key=17022349974307bb3a65df56ca38c10c&libId=l3mut6hl01012vjm000DLbcg9va9h&loc=https%3A%2F%2Fwww.superbestaudiofriends.org%2Findex.php%3Fthreads%2Fhqplayer-vs-sox.11286%2F&v=1&opt=true&out=https%3A%2F%2Fforums.slimdevices.com%2Fshowthread.php%3F105309-C-3PO-plugin-a-trnscoding-helper%26p%3D982220%26viewfull%3D1%23post982220&ref=https%3A%2F%2Fwww.google.com%2F&title=HQPlayer%20vs%20SOX%20%7C%20Super%20Best%20Audio%20Friends&txt=https%3A%2F%2Fforums.slimdevices.com%2Fshow...scoding-helper%26amp%3Bp%3D982220%26amp%3Bviewfull%3D1%23post982220
+    
   
 Allow Aliasing:
 
